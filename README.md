@@ -6,3 +6,6 @@ the clients about the service of the government offices in the Philippines.
 
 Web Snapshots
 ![GitHub Logo](/quappsnaps/web1.png)
+![GitHub Logo](/quappsnaps/web2.png)
+![GitHub Logo](/quappsnaps/web3.png)
+![GitHub Logo](/quappsnaps/web4.png)
