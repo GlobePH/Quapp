@@ -5,4 +5,4 @@ Descriptiong: A crowsourcing tool that accepts positive and negative responses f
 the clients about the service of the government offices in the Philippines.
 
 Web Snapshots
-![Alt text](relative/path/to/web1.png?raw=true "Title")
+![quappsnaps](web1.png)
